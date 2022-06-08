@@ -5,7 +5,7 @@ function Footer() {
     return (
         <div className="footerPage">
            {/* <p> Happy Coding  <Icon type="smile" /></p> */}
-           <p> Happy Coding </p> 
+           <p> Daniel Song </p> 
         </div>
     )
 }

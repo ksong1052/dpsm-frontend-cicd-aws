@@ -141,7 +141,7 @@ const LandingPage = () => {
   return (
     <div className="landingPage">
       <div className="landTitle">
-        <h2>Let's Travel Anywhere <RocketOutlined /></h2>         
+        <h2>Let's Go Anywhere <RocketOutlined /></h2>         
       </div>
 
       {/* Filter */}
